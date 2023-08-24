@@ -1,5 +1,11 @@
 # Python for Active Defense 
-## Behavioral Analytics
-This script is compatible with Windows machine and uses psutils library to check for network connections in each process in execution.
+## Windows remote connections watcher
+### by DFT. 2023-08-23
+This script is compatible with Windows machines and uses psutils library to check for network connections in each process in execution.
 
-It will count connections from process and hypothetically calculate the probability of the actual process be infected by malware or misbehaviour.
+It will show all remote connections from processes.
+
+
+Work on Linux and Windows.
+
+Made for Windows.
